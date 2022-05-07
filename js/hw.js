@@ -119,6 +119,6 @@
 //   let res = a + 7;
 //   console.log(res);
 // } else {
-//   let res = a / 7;
-//   console.log(Number(res.toFixed(2)));
+//   let res = a / 10;
+//   console.log(Number(res.toFixed(1)));
 // }
